@@ -12,10 +12,12 @@
 
 # 1) Come to a fishing spot
 
-# 2) Point the camera at the character from top to bottom and place the camera at the maximum distance
+# 2) Set the skill of throwing a fishing rod to "1", and reaching to "2"
 
-# 3) Press hotkey "F10"
+# 3) Point the camera at the character from top to bottom and place the camera at the maximum distance
 
-# 4) Enjoy
+# 4) Press hotkey "F10"
+
+# 5) Enjoy
 
 # P.S. Currently, the bot can cast a line and catch fish
